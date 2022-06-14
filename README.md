@@ -10,6 +10,6 @@
 yarn start
 ```
 
-Open [http://localhost:19002](http://localhost:19002) with your browser and boom!.
+Open [http://localhost:3002](http://localhost:3002) with your browser and boom!.
 
 Goodluck!
