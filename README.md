@@ -2,7 +2,7 @@
 
 # NTF App landing page
 
-To test my React-Native knowledge.
+![NFT Marketplace](https://i.ibb.co/X5kYdvB/image.png)
 
 ## Get started
 
