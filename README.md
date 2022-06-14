@@ -7,7 +7,7 @@
 ## Get started
 
 ```bash
-yarn start
+yarn dev
 ```
 
 Open [http://localhost:3002](http://localhost:3002) with your browser and boom!.
